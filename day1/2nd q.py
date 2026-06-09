@@ -1,0 +1,15 @@
+day1=int(input("Enter expense of Day 1: "))
+day2=int(input("Enter expense of Day 2: "))
+day3=int(input("Enter expense of Day 3: "))
+day4=int(input("Enter expense of Day 4: "))
+day5=int(input("Enter expense of Day 5: "))
+day6=int(input("Enter expense of Day 6: "))
+day7=int(input("Enter expense of Day 7: "))
+total_expense=day1+day2+day3+day4+day5+day6+day7
+print("Total expense of the week is: ",total_expense)
+average_expense=total_expense/7
+print("Average Daily expense of the week is: ",average_expense)
+highest=max(day1,day2,day3,day4,day5,day6,day7)
+print("Highest expense of the week is: ",highest)
+lowest=min(day1,day2,day3,day4,day5,day6,day7)
+print("Lowest expense of the week is: ",lowest)
