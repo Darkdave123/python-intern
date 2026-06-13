@@ -1,0 +1,4 @@
+with open("2nd q.py","r") as f:
+ x=f.read()
+
+ print(x)

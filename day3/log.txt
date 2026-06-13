@@ -1,0 +1,1 @@
+2026-06-13 12:43:57 | add_expense | args=(4000.0, 'travel') | kwargs={}
