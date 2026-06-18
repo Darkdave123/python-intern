@@ -1,5 +1,5 @@
 
-import util
+import day2.util as util
 
 name = "Devanand"
 marks = 85
